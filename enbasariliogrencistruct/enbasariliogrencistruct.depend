@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662063553 source:c:\users\yeliz\onedrive\masaüstü\enbasariliogrencistruct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
